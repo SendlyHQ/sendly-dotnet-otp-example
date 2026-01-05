@@ -128,6 +128,6 @@ Verify an OTP code.
 
 ## Learn More
 
-- [Sendly Documentation](https://sendly.dev/docs)
-- [Sendly .NET SDK](https://github.com/sendly/sendly-dotnet)
+- [Sendly Documentation](https://sendly.live/docs)
+- [Sendly .NET SDK](https://github.com/SendlyHQ/sendly-dotnet)
 - [ASP.NET Core Documentation](https://learn.microsoft.com/aspnet/core)
