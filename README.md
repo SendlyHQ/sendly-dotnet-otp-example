@@ -1,3 +1,8 @@
+<p align="center">
+  <img src=".github/header.svg" alt="Sendly .NET OTP Example" />
+</p>
+
+
 # Sendly .NET OTP Verification Example
 
 A complete ASP.NET Core example demonstrating phone number verification using the Sendly API.
